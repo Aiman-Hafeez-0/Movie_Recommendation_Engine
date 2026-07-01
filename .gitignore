@@ -1,0 +1,16 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+# Raw data CSVs (too large for git)
+data/*.csv
+
+# Environment
+.env
+.streamlit/secrets.toml
+
+# OS
+.DS_Store
+Thumbs.db
