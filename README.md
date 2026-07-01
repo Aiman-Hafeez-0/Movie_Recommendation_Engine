@@ -6,7 +6,11 @@ keywords, scored with cosine similarity. Built with Streamlit.
 
 ## Demo
 
-> Add a screenshot or GIF here, and your live Streamlit Cloud link once deployed.
+Live App: Coming soon (deployment link will be added here).
+
+### Screenshot
+
+![CineMatch Screenshot](Homepage.png)
 
 ## How it works
 
