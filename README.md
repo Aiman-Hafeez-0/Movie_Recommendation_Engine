@@ -10,7 +10,7 @@ Live App: Coming soon (deployment link will be added here).
 
 ### Screenshot
 
-![CineMatch Screenshot](Homepage.png)
+![CineMatch Screenshot](HomePage.png)
 
 ## How it works
 
